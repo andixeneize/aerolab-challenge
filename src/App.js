@@ -5,7 +5,6 @@ import { NavBar } from './components/navBar';
 import { ProductList } from './components/productList';
 import { Category } from './components/category';
 import { ToastContainer } from 'material-react-toastify';
-import { Pagination } from './components/pagination';
 import { SortBy } from './components/sortBy';
 
 
